@@ -1,2 +1,2 @@
 # VHDL
-Codes of the Programmable Devices Course
+Programs written in VHDL
