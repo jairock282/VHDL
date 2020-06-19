@@ -1,2 +1,2 @@
 # VHDL
-Basic programs built in VHDL
+Programs written in VHDL
